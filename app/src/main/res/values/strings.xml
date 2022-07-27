@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sharedpreferences</string>
+    <string name="nombre_de_las_persona">Nombre de las persona:</string>
+    <string name="sin">""</string>
+    <string name="datos">Datos:</string>
+    <string name="grabar">Grabar</string>
+    <string name="recuperar">Recuperar</string>
+
+</resources>
